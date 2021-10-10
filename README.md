@@ -11,7 +11,7 @@ $ pipenv shell (optional)
 
 $ python app.py
 
-$ local version running on http://127.0.0.1:5000/
+$ local version running on http://127.0.0.1:5000/ or http://localhost:5000/
 
 $ Visit http://35.192.189.73:5000/ for a demo I hosted on Google Cloud.
 
