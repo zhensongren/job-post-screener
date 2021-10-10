@@ -1,8 +1,7 @@
-# Job-Recommendation
-A job recommendation engine for data scientist
+# Job-Post-Screener
+A job post screener engine for data scientist and recruiters
 
-$ git clone https://github.com/zhensongren/Job-Recommendation.git
-
+$ git clone https://github.com/zhensongren/job-post-screener.git
 $ cd to/the/src folder
 
 $ pipenv install --dev (optional)
